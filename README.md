@@ -14,8 +14,9 @@ A simple calculator built with PHP that:
 - Accepts two numeric inputs
 - Performs one of four operations: add, subtract multiply, divide
 - Displays result on the same page
- ![Calculator](11.png)
- ![Calculator](22.png)
+
+ ![Calculator](screen/11.png)
+ ![Calculator](screen/22.png)
  
 
 
@@ -23,8 +24,9 @@ A simple calculator built with PHP that:
 - `contact.html` collects name, email, and message
 - `submit.php` receives and validates the form using `POST`
 - Displays a formatted success message with sanitized input
- ![Form](1.png)
- ![Form](2.png)
+
+ ![Form](screen/1.png)
+ ![Form](screen/2.png)
 
 
 ### Task 3: Simple PHP Class
